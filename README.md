@@ -1,5 +1,5 @@
  
-A simple android app to communicate with Evive (www.evive.cc) using the ESP-8266 module.
+ 
 To get started:-
 1. Download and extract the zip.
 2. Open Android Studio on your device and import this project.
