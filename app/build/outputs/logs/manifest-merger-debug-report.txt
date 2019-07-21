@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\74e88b481063897309bcf7562b6bc45d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\223f8dd84db249eec1ed2187a39295b4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\8493d18003206ebccc7741b3ea42b280\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\a3b1844fa1189f18fa6817508b9b9068\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\56e576ffadb1667f802ad193e75236a3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\89bab9067c28bc87c048c6dc6b8377ae\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\4e7c9d9961f978128665813dd5e4fafb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\69487a68f734e61896d9c4715bbf4b73\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\add37b7a94dbf13a7175e8626c0f5ab1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\74e88b481063897309bcf7562b6bc45d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\74e88b481063897309bcf7562b6bc45d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\223f8dd84db249eec1ed2187a39295b4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\223f8dd84db249eec1ed2187a39295b4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\8493d18003206ebccc7741b3ea42b280\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\8493d18003206ebccc7741b3ea42b280\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\a3b1844fa1189f18fa6817508b9b9068\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\a3b1844fa1189f18fa6817508b9b9068\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\56e576ffadb1667f802ad193e75236a3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\56e576ffadb1667f802ad193e75236a3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\89bab9067c28bc87c048c6dc6b8377ae\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\89bab9067c28bc87c048c6dc6b8377ae\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\4e7c9d9961f978128665813dd5e4fafb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\4e7c9d9961f978128665813dd5e4fafb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\69487a68f734e61896d9c4715bbf4b73\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\69487a68f734e61896d9c4715bbf4b73\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\add37b7a94dbf13a7175e8626c0f5ab1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\add37b7a94dbf13a7175e8626c0f5ab1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dell.myespapplication.MainActivity
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\74e88b481063897309bcf7562b6bc45d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\74e88b481063897309bcf7562b6bc45d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\223f8dd84db249eec1ed2187a39295b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\223f8dd84db249eec1ed2187a39295b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\8493d18003206ebccc7741b3ea42b280\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\8493d18003206ebccc7741b3ea42b280\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\a3b1844fa1189f18fa6817508b9b9068\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\a3b1844fa1189f18fa6817508b9b9068\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\56e576ffadb1667f802ad193e75236a3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\56e576ffadb1667f802ad193e75236a3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\89bab9067c28bc87c048c6dc6b8377ae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\89bab9067c28bc87c048c6dc6b8377ae\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\4e7c9d9961f978128665813dd5e4fafb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\4e7c9d9961f978128665813dd5e4fafb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\69487a68f734e61896d9c4715bbf4b73\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\69487a68f734e61896d9c4715bbf4b73\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\add37b7a94dbf13a7175e8626c0f5ab1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\add37b7a94dbf13a7175e8626c0f5ab1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Harpreet Sanghra\.gradle\caches\transforms-2\files-2.1\74e88b481063897309bcf7562b6bc45d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harpreet Sanghra\Downloads\evive_android_app-master\app\src\main\AndroidManifest.xml

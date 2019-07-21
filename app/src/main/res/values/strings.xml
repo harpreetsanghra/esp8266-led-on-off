@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My esp application</string>
+    <string name="ip_address">Enter IP Address of ESP:</string>
+     <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="led">Turn LED on/off</string>
+</resources>
